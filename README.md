@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -14,6 +15,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0476-number-complement) |
