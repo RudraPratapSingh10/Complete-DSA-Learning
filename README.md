@@ -14,4 +14,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
