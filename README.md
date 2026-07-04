@@ -20,6 +20,7 @@
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1009-complement-of-base-10-integer) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
