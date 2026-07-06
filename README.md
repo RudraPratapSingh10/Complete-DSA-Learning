@@ -32,6 +32,7 @@
 | ------- |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
 ## Backtracking
 |  |
@@ -40,5 +41,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
