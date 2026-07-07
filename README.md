@@ -32,6 +32,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
@@ -54,4 +55,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
