@@ -37,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
 ## Binary Search
