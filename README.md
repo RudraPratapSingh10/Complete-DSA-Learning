@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
