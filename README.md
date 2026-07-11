@@ -56,6 +56,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
