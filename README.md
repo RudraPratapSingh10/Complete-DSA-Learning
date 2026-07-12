@@ -42,6 +42,7 @@
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0136-single-number) |
@@ -112,4 +113,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
