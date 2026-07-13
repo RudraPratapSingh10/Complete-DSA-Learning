@@ -41,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0162-find-peak-element) |
