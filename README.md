@@ -65,6 +65,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
