@@ -2,9 +2,11 @@ class Solution {
 public:
     string firstPalindrome(vector<string>& words) {
         for(string &word : words){
-            if(word == string(rbegin(word) ,rend(word))){
+            int n = word.size();
+            if(equal(word.begin(),word.begin()+n/2,word.rbegin())){
                 return word;
             }
+            
         }
         return "";
     }
