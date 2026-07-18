@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -140,4 +142,8 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
