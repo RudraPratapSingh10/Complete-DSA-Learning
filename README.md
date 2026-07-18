@@ -64,6 +64,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
+| [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
+| [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Number Theory
 |  |
