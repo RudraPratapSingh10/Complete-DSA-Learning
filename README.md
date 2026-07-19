@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
