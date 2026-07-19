@@ -55,6 +55,7 @@
 | [0162-find-peak-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
@@ -93,6 +94,7 @@
 | [0015-3sum](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Number Theory
@@ -150,4 +153,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
