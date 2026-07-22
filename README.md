@@ -154,6 +154,7 @@
 | [0125-valid-palindrome](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0344-reverse-string) |
+| [1108-defanging-an-ip-address](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Number Theory
