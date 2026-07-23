@@ -159,6 +159,7 @@
 | [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1768-merge-strings-alternately) |
@@ -176,6 +177,7 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
