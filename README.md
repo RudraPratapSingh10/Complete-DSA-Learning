@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
@@ -167,6 +168,7 @@
 | [1108-defanging-an-ip-address](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Number Theory
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
+| [1903-largest-odd-number-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
