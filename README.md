@@ -169,6 +169,7 @@
 | [0242-valid-anagram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
