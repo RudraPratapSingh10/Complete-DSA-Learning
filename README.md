@@ -91,6 +91,7 @@
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -106,6 +107,7 @@
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0205-isomorphic-strings](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
@@ -204,4 +208,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
