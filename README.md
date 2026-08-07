@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
@@ -48,6 +49,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
@@ -152,6 +154,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
