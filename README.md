@@ -226,4 +226,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
