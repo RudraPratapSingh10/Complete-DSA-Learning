@@ -33,6 +33,7 @@
 | [0191-number-of-1-bits](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -71,6 +72,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -129,6 +131,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1768-merge-strings-alternately) |
@@ -147,6 +150,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -249,4 +253,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
