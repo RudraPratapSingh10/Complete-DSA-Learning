@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0197-rising-temperature) |
 ## Enumeration
 |  |
 | ------- |
