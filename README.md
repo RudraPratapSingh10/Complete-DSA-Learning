@@ -74,6 +74,7 @@
 | [0283-move-zeroes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -152,6 +153,7 @@
 | [0268-missing-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
