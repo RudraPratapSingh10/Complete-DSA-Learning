@@ -245,6 +245,7 @@
 | [0182-duplicate-emails](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0197-rising-temperature) |
 | [1075-project-employees-i](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1075-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1211-queries-quality-and-percentage) |
 ## Enumeration
 |  |
 | ------- |
