@@ -79,6 +79,7 @@
 | [0704-binary-search](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
@@ -159,6 +160,7 @@
 | [0704-binary-search](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
