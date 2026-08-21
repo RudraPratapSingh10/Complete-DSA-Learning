@@ -52,6 +52,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0056-merge-intervals) |
@@ -130,6 +131,7 @@
 | [0015-3sum](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0125-valid-palindrome) |
@@ -220,6 +222,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -279,4 +282,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
