@@ -260,6 +260,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
 |  |
 | ------- |
