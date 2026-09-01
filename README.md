@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0204-count-primes) |
@@ -41,6 +42,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Array
