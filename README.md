@@ -265,6 +265,7 @@
 | [0182-duplicate-emails](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0197-rising-temperature) |
 | [1075-project-employees-i](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
