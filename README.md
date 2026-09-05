@@ -18,6 +18,7 @@
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
@@ -45,6 +46,7 @@
 | [0050-powx-n](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
