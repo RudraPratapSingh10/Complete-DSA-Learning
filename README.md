@@ -84,6 +84,7 @@
 | [0179-largest-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
@@ -114,6 +115,7 @@
 | [0046-permutations](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
 | ------- |
