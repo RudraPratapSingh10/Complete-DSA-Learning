@@ -337,4 +337,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
