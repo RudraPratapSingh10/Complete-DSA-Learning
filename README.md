@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1922-count-good-numbers) |
@@ -341,4 +342,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
