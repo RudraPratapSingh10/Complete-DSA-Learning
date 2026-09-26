@@ -346,4 +346,5 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
