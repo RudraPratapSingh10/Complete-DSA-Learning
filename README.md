@@ -172,6 +172,7 @@
 | [0567-permutation-in-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -349,4 +350,5 @@
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
