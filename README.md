@@ -46,6 +46,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1922-count-good-numbers) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
