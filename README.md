@@ -44,6 +44,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
@@ -353,6 +354,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0141-linked-list-cycle) |
