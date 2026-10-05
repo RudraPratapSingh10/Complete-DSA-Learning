@@ -50,6 +50,7 @@
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1922-count-good-numbers) |
 ## Array
@@ -171,6 +172,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0344-reverse-string) |
@@ -262,6 +264,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -360,6 +363,7 @@
 | [0141-linked-list-cycle](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
