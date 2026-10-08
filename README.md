@@ -130,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0205-isomorphic-strings) |
@@ -363,6 +364,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0206-reverse-linked-list) |
