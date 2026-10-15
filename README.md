@@ -81,6 +81,7 @@
 | [0075-sort-colors](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0136-single-number) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 ## Memoization
 |  |
 | ------- |
@@ -379,4 +382,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
