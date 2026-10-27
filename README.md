@@ -304,6 +304,7 @@
 | [0197-rising-temperature](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0626-exchange-seats) |
 | [1075-project-employees-i](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/1075-project-employees-i) |
