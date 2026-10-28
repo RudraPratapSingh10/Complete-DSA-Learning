@@ -301,6 +301,7 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/RudraPratapSingh10/Complete-DSA-Learning/tree/master/0584-find-customer-referee) |
